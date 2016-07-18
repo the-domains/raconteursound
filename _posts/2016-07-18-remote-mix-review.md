@@ -8,14 +8,14 @@ description: >-
   love all forms of audio-visual storytelling, and have studied thousands of
   movies and TV shows to learn how to aid story through sound. Any, and every,
   decision I make is done from the desire to make your film the best it can be.
-dateModified: '2016-07-18T03:54:55.465Z'
-datePublished: '2016-07-18T08:13:34.140Z'
+dateModified: '2016-07-18T08:18:42.337Z'
+datePublished: '2016-07-18T08:21:48.319Z'
 title: Remote Mix Review
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd94e84f-8bdd-40bc-bcfb-b8373e2a9244.jpg
-starred: false
 sourcePath: _posts/2016-07-18-remote-mix-review.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
