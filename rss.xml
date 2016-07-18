@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Raconteur Sound]]></title>
+        <description><![CDATA[Raconteur Sound]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 00:40:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sound Effects]]></title>
+            <description><![CDATA[<article><h1>Sound Effects</h1><p>Buy Existing SFX Librarys</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a4fb159-0683-4925-bf8e-2ad5803af8fb.png"></article>]]></description>
+            <link>http://www.sonniss.com/vendor/clechner/</link>
+            <guid isPermaLink="false">272f2de6-238b-49e1-a63b-effdc8ce7cd1</guid>
+            <pubDate>Mon, 18 Jul 2016 00:40:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
