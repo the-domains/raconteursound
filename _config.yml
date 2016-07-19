@@ -23,13 +23,13 @@ color:
     - '#F4F7D9'
   lightness: 0.5319781769067049
 layout_spectrum: 0.1562289877329022
-name: Raconteursound
+name: Raconteur Sound
 navigation:
-  - id: 88bb2503-f8fd-447b-ae15-72991cc2108b
-    url: 2016-06-11-field-recording-equipment.html
-    name: Field Recording Kit
-    type: content
   - id: 'http://thegrid.ai/rs-portfolio/'
     url: 'http://thegrid.ai/rs-portfolio/'
     name: Portfolio
     type: external
+  - id: 88bb2503-f8fd-447b-ae15-72991cc2108b
+    url: 2016-06-11-field-recording-equipment.html
+    name: Field Recording Kit
+    type: content
