@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/raconteursound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 07:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 07:38:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/raconteursound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b519485-4c0c-4a84-adf4-efa83abc85b3.png</link>
             <guid isPermaLink="false">c9a516f5-a237-47d3-a648-29746eb2c72b</guid>
             <pubDate>Tue, 19 Jul 2016 04:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21971eef-8246-4941-8c07-68c8a692ce4b.jpg">]]></description>
+            <link>https://twitter.com/RaconteurSound</link>
+            <guid isPermaLink="false">71da9137-6a84-425b-9213-5548fe62d299</guid>
+            <pubDate>Tue, 19 Jul 2016 07:38:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Personal Bio:]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/133247580</link>
             <guid isPermaLink="false">d73da777-e66c-4ce6-99ec-abbbc402b3cc</guid>
             <pubDate>Mon, 18 Jul 2016 08:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sound Sculpture Library Demo]]></title>
-            <description><![CDATA[<article><h1>Sound Sculpture Library Demo</h1><p>The Sound Sculpture Library has been created by recording a steel sound sculpture featured in this video. For more information please visit raconteursound.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6b3c77233217765ffafc2b5dd02b35a/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F4b6dRBg9V6E%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=4b6dRBg9V6E</link>
-            <guid isPermaLink="false">9bff6b36-ac40-486b-90ae-2e061b332435</guid>
-            <pubDate>Mon, 18 Jul 2016 03:54:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
