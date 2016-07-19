@@ -3,16 +3,15 @@ description: >-
   Film is a collaborative medium that benefits from contributions that every
   member of the crew makes through their work. These are the hands that help
   shape the world at Raconteur Sound.
-dateModified: '2016-07-18T03:54:35.851Z'
-datePublished: '2016-07-19T04:43:05.366Z'
+dateModified: '2016-07-19T07:14:44.879Z'
+datePublished: '2016-07-19T07:14:45.357Z'
 title: Collaborators
 author: []
-starred: false
 sourcePath: _posts/2016-07-19-collaborators.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: collaborators/index.html
+_type: Blurb
 
 ---
 # Collaborators
