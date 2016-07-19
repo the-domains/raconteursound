@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/raconteursound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 20:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 21:19:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/raconteursound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b519485-4c0c-4a84-adf4-efa83abc85b3.png</link>
             <guid isPermaLink="false">c9a516f5-a237-47d3-a648-29746eb2c72b</guid>
             <pubDate>Tue, 19 Jul 2016 20:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Field Recording Kit]]></title>
+            <description><![CDATA[<article><h1>Field Recording Kit</h1><p>This is the heart of my field recording kit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d65897cf2029ad453ec821f3f4001578541b975.jpg"></article>]]></description>
+            <link>https://thegrid.ai/raconteursound/field-recording-kit/index.html</link>
+            <guid isPermaLink="false">88bb2503-f8fd-447b-ae15-72991cc2108b</guid>
+            <pubDate>Tue, 19 Jul 2016 21:19:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frog Legs]]></title>
@@ -61,13 +68,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/672b4e99-f2b9-4141-a387-148f40057a0c.jpg</link>
             <guid isPermaLink="false">e559f9ca-5372-4eed-813f-75cdd49913c9</guid>
             <pubDate>Tue, 19 Jul 2016 09:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Field Recording Kit]]></title>
-            <description><![CDATA[<article><h1>Field Recording Kit</h1><p>This is the heart of my field recording kit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d65897cf2029ad453ec821f3f4001578541b975.jpg"></article>]]></description>
-            <link>https://thegrid.ai/raconteursound/field-recording-kit/index.html</link>
-            <guid isPermaLink="false">88bb2503-f8fd-447b-ae15-72991cc2108b</guid>
-            <pubDate>Tue, 19 Jul 2016 09:55:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sound Sculpture Library Demo]]></title>
