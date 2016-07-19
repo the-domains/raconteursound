@@ -29,3 +29,7 @@ navigation:
     url: 2016-06-11-field-recording-equipment.html
     name: Field Recording Kit
     type: content
+  - id: 'http://thegrid.ai/rs-portfolio/'
+    url: 'http://thegrid.ai/rs-portfolio/'
+    name: Portfolio
+    type: external
