@@ -23,6 +23,10 @@ navigation:
     url: 2016-07-19-collaborators.html
     name: Collaborators
     type: content
+  - id: colin@raconteursound.com
+    url: colin@raconteursound.com
+    name: Contact
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e0a2a24-1965-4726-aafe-3cee50d42c0f.png
 collections:
