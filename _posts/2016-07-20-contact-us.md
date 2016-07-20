@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-20T09:37:44.818Z'
+datePublished: '2016-07-20T09:39:36.974Z'
 sourcePath: _posts/2016-07-20-contact-us.md
 hasPage: true
 author: []
-dateModified: '2016-07-20T09:37:38.347Z'
+dateModified: '2016-07-20T09:39:27.439Z'
 title: Contact Us
 description: email - colin@raconteursound.com
-inNav: false
+inNav: true
 starred: false
 url: contact-us/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ## Contact Us
@@ -17,3 +17,4 @@ _type: Blurb
 email - colin@raconteursound.com
 
 phone - (719) 239-1315
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a44e1b-9333-424a-8de3-156544a0abb1.jpg)
