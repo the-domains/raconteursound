@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-20T03:06:07.928Z'
+datePublished: '2016-07-20T03:38:40.652Z'
 sourcePath: _posts/2016-07-19-collaborators.md
 hasPage: true
 author: []
-dateModified: '2016-07-20T03:05:50.641Z'
+dateModified: '2016-07-20T03:06:08.829Z'
 title: Collaborators
 description: >-
   Film is a collaborative medium that benefits from contributions that every
@@ -43,16 +43,16 @@ Allison Reitz is a composer, sound designer, and interface designer for composer
 
 Nikki Myers is an editor, engineer, mixer, musician, and specializes as an ADR/VO recordist. In December 2012, she graduated from the University of North Carolina at Wilmington with a Bachelor of Arts in Music and a Bachelor of Arts in Film Studies, and has also received her Master of Fine Arts in Sound Design from the Savannah College of Art and Design in May 2015\. Nikki's self-published Master's thesis, Bridge the Gap: A Beginner's Guide to Remote ADR and Source-Connect can be downloaded in multiple ebook formats.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43a3fa09-8319-4e41-9950-b8fc1f3087d2.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7bdb0dc7e8ff0dce9f08c2783c29b7075d969d.jpg)
 
 ### [Ethan Holland][5]
 
 An Austin, TX based sound designer and audio engineer with a work ethic that can only be matched by his personable nature and eclectic taste in all things music and sound. Ethan approaches every project with an unparalleled sense of respect and amity, rendering compelling sonic experiences effortlessly. Specialties: sound for live events; production sound for film/TV; music editorial; Foley artistry.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/945e351b10a70408dce69078501869a114b0d718.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7bdb0dc7e8ff0dce9f08c2783c29b7075d969d.jpg)
 
 ### [Nirana Singh][6]
 
 Nirana Singh is a diligent and skilled sound designer who thrives in the middle of the action.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/945e351b10a70408dce69078501869a114b0d718.jpg)
 
 [0]: http://mg-raconteur.com/
 [1]: http://raibarchener.com/
