@@ -19,6 +19,10 @@ navigation:
     url: 'http://thegrid.ai/rs-portfolio/'
     name: Portfolio
     type: external
+  - id: 'http://www.sonniss.com/vendor/clechner/'
+    url: 'http://www.sonniss.com/vendor/clechner/'
+    name: Sound Effects
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e0a2a24-1965-4726-aafe-3cee50d42c0f.png
 collections:
