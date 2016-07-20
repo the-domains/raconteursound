@@ -1,18 +1,20 @@
 ---
-datePublished: '2016-07-20T03:44:08.699Z'
+datePublished: '2016-07-20T18:30:59.158Z'
 sourcePath: _posts/2016-07-19-collaborators.md
 hasPage: true
 author: []
-dateModified: '2016-07-20T03:44:03.249Z'
+dateModified: '2016-07-20T18:30:58.191Z'
 title: Collaborators
 description: >-
   Film is a collaborative medium that benefits from contributions that every
   member of the crew makes through their work. These are the hands that help
   shape the world at Raconteur Sound.
-inNav: true
+inNav: false
+publisher: {}
+via: {}
 starred: false
 url: collaborators/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Collaborators
