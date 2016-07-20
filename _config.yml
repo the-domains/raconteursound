@@ -35,6 +35,10 @@ navigation:
     url: 2016-07-20-contact-us.html
     name: Contact Us
     type: content
+  - id: 88bb2503-f8fd-447b-ae15-72991cc2108b
+    url: 2016-06-11-field-recording-equipment.html
+    name: Field Recording Kit
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e0a2a24-1965-4726-aafe-3cee50d42c0f.png
 collections:
