@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-07-20T09:39:36.974Z'
+datePublished: '2016-07-20T18:30:45.085Z'
 sourcePath: _posts/2016-07-20-contact-us.md
 hasPage: true
 author: []
-dateModified: '2016-07-20T09:39:27.439Z'
+dateModified: '2016-07-20T18:30:44.607Z'
 title: Contact Us
 description: email - colin@raconteursound.com
-inNav: true
+inNav: false
+publisher: {}
+via: {}
 starred: false
 url: contact-us/index.html
-_type: WebPage
+_type: MediaObject
 
 ---
 ## Contact Us
