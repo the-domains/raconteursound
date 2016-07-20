@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-20T03:38:40.652Z'
+datePublished: '2016-07-20T03:44:08.699Z'
 sourcePath: _posts/2016-07-19-collaborators.md
 hasPage: true
 author: []
-dateModified: '2016-07-20T03:06:08.829Z'
+dateModified: '2016-07-20T03:44:03.249Z'
 title: Collaborators
 description: >-
   Film is a collaborative medium that benefits from contributions that every
@@ -19,7 +19,7 @@ _type: WebPage
 
 Film is a collaborative medium that benefits from contributions that every member of the crew makes through their work. These are the hands that help shape the world at Raconteur Sound.
 
-[Marinna Guzy][0]
+### [Marinna Guzy][0]
 
 Marinna Guzy is a skilled storyteller bound to no medium. She is more than just a sound designer, she is a sound artist.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/293e5047-7425-49ad-9996-bbdff6bc1833.jpg)
