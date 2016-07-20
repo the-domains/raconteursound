@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-20T18:30:59.158Z'
+datePublished: '2016-07-20T18:33:07.067Z'
 sourcePath: _posts/2016-07-19-collaborators.md
 hasPage: true
 author: []
-dateModified: '2016-07-20T18:30:58.191Z'
+dateModified: '2016-07-20T18:33:06.045Z'
 title: Collaborators
 description: >-
   Film is a collaborative medium that benefits from contributions that every
