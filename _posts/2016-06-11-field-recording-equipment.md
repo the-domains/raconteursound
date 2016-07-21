@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T18:34:21.094Z'
+datePublished: '2016-07-21T07:58:15.731Z'
 sourcePath: _posts/2016-06-11-field-recording-equipment.md
 inFeed: true
 authors: []
@@ -8,13 +8,13 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-20T18:34:20.577Z'
+via: {}
+dateModified: '2016-07-21T07:57:49.812Z'
 title: Field Recording Kit
 publisher: {}
 description: This is the heart of my field recording kit.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: field-recording-kit/index.html
 _type: Article
@@ -36,8 +36,4 @@ Primary field recording kit:
 * Rycote Windjammer
 * Sennheiser HD 280 Pro Headphones
 
-[Contact Us][0]
-
 (c) _2016 Raconteur Sound_
-
-[0]: http://raconteursound.com/contact
