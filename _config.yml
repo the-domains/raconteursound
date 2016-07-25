@@ -15,12 +15,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f06e2cf9-69a9-460d-ac08-cbe2b6690898.png
 name: Raconteur Sound
 navigation:
-  - id: 'http://thegrid.ai/rs-portfolio/'
-    url: 'http://thegrid.ai/rs-portfolio/'
+  - url: 'http://thegrid.ai/rs-portfolio/'
     name: Portfolio
     type: external
-  - id: 'http://www.sonniss.com/vendor/clechner/'
-    url: 'http://www.sonniss.com/vendor/clechner/'
+  - url: 'http://www.sonniss.com/vendor/clechner/'
     name: Sound Effects
     type: external
   - id: 1224b806-b781-4b65-ad4b-4541f3b38113
