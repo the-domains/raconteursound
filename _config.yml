@@ -15,27 +15,23 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f06e2cf9-69a9-460d-ac08-cbe2b6690898.png
 name: Raconteur Sound
 navigation:
-  - url: 'http://thegrid.ai/rs-portfolio/'
-    name: Portfolio
+  - name: Portfolio
+    url: 'http://thegrid.ai/rs-portfolio/'
     type: external
-  - url: 'http://www.sonniss.com/vendor/clechner/'
-    name: Sound Effects
+  - name: Sound Effects
+    url: 'http://www.sonniss.com/vendor/clechner/'
     type: external
-  - id: 1224b806-b781-4b65-ad4b-4541f3b38113
-    url: 2016-07-19-collaborators.html
-    name: Collaborators
+  - name: Collaborators
+    id: 1224b806-b781-4b65-ad4b-4541f3b38113
     type: content
-  - id: 1a30ea6e-62e5-410c-82f7-c5dc209ee602
-    url: 2016-03-16-studio.html
-    name: Studio
+  - name: Field Recording Kit
+    id: 88bb2503-f8fd-447b-ae15-72991cc2108b
     type: content
-  - id: 88bb2503-f8fd-447b-ae15-72991cc2108b
-    url: 2016-06-11-field-recording-equipment.html
-    name: Field Recording Kit
+  - name: Studio
+    id: 1a30ea6e-62e5-410c-82f7-c5dc209ee602
     type: content
-  - id: f59f16df-e057-455c-94e2-6deb7ffb29a7
-    url: 2016-07-20-contact-us.html
-    name: Contact Us
+  - name: Contact Us
+    id: f59f16df-e057-455c-94e2-6deb7ffb29a7
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e0a2a24-1965-4726-aafe-3cee50d42c0f.png
