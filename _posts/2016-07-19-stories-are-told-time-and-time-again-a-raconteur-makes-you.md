@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-29T06:56:34.450Z'
+datePublished: '2016-07-29T06:59:30.579Z'
 sourcePath: >-
   _posts/2016-07-19-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-29T06:56:32.847Z'
+dateModified: '2016-07-29T06:59:29.458Z'
 title: >-
   Stories are told time and time again. A raconteur makes you feel like you’re
   hearing it for the first time.
@@ -53,3 +53,5 @@ Raconteur Sound is committed to the production of top quality sonic media offeri
 * Forensic Audio Restoration
 
 * Impulse Response Creation
+
+(c) 2016 Raconteur Sound
