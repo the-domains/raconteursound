@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/raconteursound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 06:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 06:08:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/raconteursound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b519485-4c0c-4a84-adf4-efa83abc85b3.png</link>
             <guid isPermaLink="false">c9a516f5-a237-47d3-a648-29746eb2c72b</guid>
             <pubDate>Tue, 19 Jul 2016 20:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Short Sound Sculpture Show Piece]]></title>
+            <description><![CDATA[<article><h1>Short Sound Sculpture Show Piece</h1><p>This track is and exploration of the sonic potential of the tones created by a sound sculpture of my own design.</p></article>]]></description>
+            <link>https://soundcloud.com/raconteur-sound/short-sculpture-show-piece-150218</link>
+            <guid isPermaLink="false">342b966a-59bb-4985-8d50-d9a472486cb5</guid>
+            <pubDate>Fri, 29 Jul 2016 06:08:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[David E. Stone]]></title>
@@ -61,20 +68,6 @@
             <link>http://www.sonniss.com/vendor/clechner/</link>
             <guid isPermaLink="false">272f2de6-238b-49e1-a63b-effdc8ce7cd1</guid>
             <pubDate>Tue, 19 Jul 2016 09:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spring In The Pacific Northwest]]></title>
-            <description><![CDATA[<article><h1>Spring In The Pacific Northwest</h1><p>Demo</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dccbdb0-afc5-4999-8527-4e4ec2455c85.jpg"></article>]]></description>
-            <link>https://soundcloud.com/raconteur-sound/spring-in-the-pacific-northwest-demo</link>
-            <guid isPermaLink="false">e0aea183-13e7-4171-aad3-741bd95ff147</guid>
-            <pubDate>Tue, 19 Jul 2016 09:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Short Sound Sculpture Show Piece]]></title>
-            <description><![CDATA[<article><h1>Short Sound Sculpture Show Piece</h1><p>This track is and exploration of the sonic potential of the tones created by a sound sculpture of my own design.</p></article>]]></description>
-            <link>https://soundcloud.com/raconteur-sound/short-sculpture-show-piece-150218</link>
-            <guid isPermaLink="false">342b966a-59bb-4985-8d50-d9a472486cb5</guid>
-            <pubDate>Tue, 19 Jul 2016 09:56:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
