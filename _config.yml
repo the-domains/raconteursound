@@ -1,16 +1,16 @@
-typography_spectrum: 0.8255319
+typography_spectrum: 0.2890872268471867
 color:
-  saturation: 0.4692176308017224
-  brandStrength: 0.3680821792222559
-  rhythmicContrast: 0.9623335746582597
+  saturation: 0.41314154118299484
+  brandStrength: 0.2300160708837211
+  rhythmicContrast: 0.813671032898128
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-  lightness: 0.5319781769067049
-layout_spectrum: 0.1562289877329022
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  lightness: 0.17761555896140635
+layout_spectrum: 0.574389798566699
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/614d22e7-033b-4496-a968-a70119c6608b.jpg
 name: Raconteur Sound
