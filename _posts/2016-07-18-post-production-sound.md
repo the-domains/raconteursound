@@ -1,4 +1,12 @@
 ---
+datePublished: '2016-08-01T23:21:28.766Z'
+sourcePath: _posts/2016-07-18-post-production-sound.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-01T23:21:28.162Z'
+title: Post-Production Sound
+publisher: {}
 description: >-
   Post-production sound is a crucial element for every film and television
   project, and it requires just as much planning and attention as script
@@ -8,23 +16,12 @@ description: >-
   is typically not handled by the supervising sound editor. The re-recording
   mixer is responsible for incorporating all the elements, including the music
   into its final format for presentation.
-dateModified: '2016-07-29T06:06:02.333Z'
-datePublished: '2016-07-29T06:06:11.235Z'
-title: Post-Production Sound
-author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/672b4e99-f2b9-4141-a387-148f40057a0c.jpg
-sourcePath: _posts/2016-07-18-post-production-sound.md
-publisher: {}
-via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: post-production-sound/index.html
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/672b4e99-f2b9-4141-a387-148f40057a0c.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aea62cb7db3c85441fea32d873da28c8/croprotate.jpg?cropheight=1553&cropwidth=2517&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F672b4e99-f2b9-4141-a387-148f40057a0c.jpg&x=0&y=0)
 
 # Post-Production Sound
 
