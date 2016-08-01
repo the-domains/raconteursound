@@ -1,4 +1,12 @@
 ---
+datePublished: '2016-08-01T23:21:06.042Z'
+sourcePath: _posts/2016-07-18-remote-mix-review.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-01T23:21:05.330Z'
+title: Remote Mix Review
+publisher: {}
 description: >-
   In an ideal world, there would be no need for a remote mix. Once preliminary
   mixing was complete, I would invite you to come and sit in on the final mix at
@@ -8,19 +16,8 @@ description: >-
   love all forms of audio-visual storytelling, and have studied thousands of
   movies and TV shows to learn how to aid story through sound. Any, and every,
   decision I make is done from the desire to make your film the best it can be.
-dateModified: '2016-07-29T06:06:28.845Z'
-datePublished: '2016-07-29T06:06:57.010Z'
-title: Remote Mix Review
-author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd94e84f-8bdd-40bc-bcfb-b8373e2a9244.jpg
-sourcePath: _posts/2016-07-18-remote-mix-review.md
-publisher: {}
-via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: remote-mix-review/index.html
 _type: MediaObject
 
 ---
