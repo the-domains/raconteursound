@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-01T23:21:06.042Z'
+datePublished: '2016-08-01T23:23:09.771Z'
 sourcePath: _posts/2016-07-18-remote-mix-review.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-01T23:21:05.330Z'
+dateModified: '2016-08-01T23:23:02.143Z'
 title: Remote Mix Review
 publisher: {}
 description: >-
@@ -18,7 +19,7 @@ description: >-
   decision I make is done from the desire to make your film the best it can be.
 starred: false
 url: remote-mix-review/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd94e84f-8bdd-40bc-bcfb-b8373e2a9244.jpg)
