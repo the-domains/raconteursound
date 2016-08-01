@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-01T23:23:09.771Z'
+datePublished: '2016-08-01T23:23:13.849Z'
 sourcePath: _posts/2016-07-18-remote-mix-review.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-01T23:23:02.143Z'
+dateModified: '2016-08-01T23:23:13.289Z'
 title: Remote Mix Review
 publisher: {}
 description: >-
