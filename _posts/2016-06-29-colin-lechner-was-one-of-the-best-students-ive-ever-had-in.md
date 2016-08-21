@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T06:07:31.176Z'
+datePublished: '2016-08-21T05:50:07.951Z'
 sourcePath: >-
   _posts/2016-06-29-colin-lechner-was-one-of-the-best-students-ive-ever-had-in.md
 inFeed: true
@@ -7,7 +7,8 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-29T06:07:22.315Z'
+via: {}
+dateModified: '2016-08-21T05:50:04.672Z'
 title: ''
 publisher: {}
 description: >-
@@ -16,7 +17,6 @@ description: >-
   two, actually) and extraordinary good taste.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: david-e-stone/index.html
 _type: Article
@@ -34,9 +34,4 @@ _Sound Editor and Supervising Sound Editor, recipient of five Golden Reel awards
 
 _Author of "Hollywood Sound Design and Moviesound Newsletter: A Case Study of the End of the Analog Age" (Routledge, 2017)._
 
-[Contact Us][1]
-
-(c)2016 Raconteur Sound
-
 [0]: http://www.imdb.com/name/nm0831823/?ref_=fn_al_nm_1 "David E. Stone"
-[1]: raconteursound.com/contac "Contact Us"
