@@ -22,11 +22,11 @@ metadata:
     the talents of highly skilled individuals who, although spread throughout
     the country, remain connected virtually, allowing us to fluidly expand to
     meet the needs of any project.
-dateModified: '2016-08-21T06:30:53.826Z'
+dateModified: '2016-08-21T06:31:02.797Z'
 title: >-
   Stories are told time and time again. A raconteur makes you feel like you’re
   hearing it for the first time.
-datePublished: '2016-08-21T06:30:54.245Z'
+datePublished: '2016-08-21T06:31:03.188Z'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b519485-4c0c-4a84-adf4-efa83abc85b3.png
@@ -39,9 +39,9 @@ description: >-
   needs of any project.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-19-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
