@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>http://raconteursound.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 04:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 05:50:16 GMT</lastBuildDate>
         <atom:link href="http://raconteursound.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time.]]></title>
@@ -12,6 +12,13 @@
             <link>http://raconteursound.com/stories-are-told-time-and-time-again-a-raconteur-makes-you/index.html</link>
             <guid isPermaLink="false">c9a516f5-a237-47d3-a648-29746eb2c72b</guid>
             <pubDate>Tue, 02 Aug 2016 04:46:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David E. Stone]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a8f0aa-9508-41ef-a713-e063e671c82e.jpg">]]></description>
+            <link>http://raconteursound.com/david-e-stone/index.html</link>
+            <guid isPermaLink="false">08230ecc-c8b5-4fbd-8de0-68cf0d4e1177</guid>
+            <pubDate>Sun, 21 Aug 2016 05:50:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Post-Production Sound]]></title>
@@ -54,13 +61,6 @@
             <link>https://soundcloud.com/raconteur-sound/short-sculpture-show-piece-150218</link>
             <guid isPermaLink="false">342b966a-59bb-4985-8d50-d9a472486cb5</guid>
             <pubDate>Fri, 29 Jul 2016 06:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David E. Stone]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a8f0aa-9508-41ef-a713-e063e671c82e.jpg">]]></description>
-            <link>http://raconteursound.com/david-e-stone/index.html</link>
-            <guid isPermaLink="false">08230ecc-c8b5-4fbd-8de0-68cf0d4e1177</guid>
-            <pubDate>Fri, 29 Jul 2016 06:07:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sound Sculpture Library Demo]]></title>
