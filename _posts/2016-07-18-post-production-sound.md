@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T06:28:13.957Z'
+datePublished: '2016-08-21T06:42:15.663Z'
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/672b4e99-f2b9-4141-a387-148f40057a0c.jpg
 author: []
@@ -25,7 +25,7 @@ metadata:
     drop, is typically not handled by the supervising sound editor. The
     re-recording mixer is responsible for incorporating all the elements,
     including the music into its final format for presentation.
-dateModified: '2016-08-21T06:28:09.597Z'
+dateModified: '2016-08-21T06:42:15.201Z'
 title: Post-Production Sound
 id: e559f9ca-5372-4eed-813f-75cdd49913c9
 publisher: {}
@@ -33,8 +33,8 @@ description: >-
   Post-production sound is a crucial element for every film and television
   project, and it requires just as much planning and attention as script
   writing, cinematography, or editing. 
-starred: false
 sourcePath: _posts/2016-07-18-post-production-sound.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
