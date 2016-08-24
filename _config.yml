@@ -21,6 +21,9 @@ navigation:
   - name: Sound Effects
     url: 'http://www.sonniss.com/vendor/clechner/'
     type: external
+  - name: Contact Us
+    id: f59f16df-e057-455c-94e2-6deb7ffb29a7
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e0a2a24-1965-4726-aafe-3cee50d42c0f.png
 collections:
