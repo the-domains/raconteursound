@@ -1,8 +1,8 @@
 ---
 id: 1224b806-b781-4b65-ad4b-4541f3b38113
-dateModified: '2016-08-24T23:33:23.738Z'
+dateModified: '2016-08-24T23:56:03.841Z'
 title: Collaborators
-datePublished: '2016-08-24T23:54:36.405Z'
+datePublished: '2016-08-24T23:56:04.357Z'
 author: []
 sourcePath: _posts/2016-07-19-collaborators.md
 description: >-
@@ -11,11 +11,10 @@ description: >-
   shape the world at Raconteur Sound.
 publisher: {}
 via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: collaborators/index.html
+_type: Blurb
 
 ---
 # Collaborators
