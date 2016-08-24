@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>http://raconteursound.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 23:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 23:37:25 GMT</lastBuildDate>
         <atom:link href="http://raconteursound.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Colin Lechner]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.imdb.com/name/nm5721812/?ref_=fn_al_nm_1</link>
             <guid isPermaLink="false">15d61d3c-e5bd-4c4a-9118-570736e11629</guid>
             <pubDate>Wed, 24 Aug 2016 23:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sound Sculpture Library Demo]]></title>
+            <description><![CDATA[<article><h1>Sound Sculpture Library Demo</h1><p>Hear some of the amazing sounds produced by this sculpture.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6b3c77233217765ffafc2b5dd02b35a/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F4b6dRBg9V6E%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=4b6dRBg9V6E</link>
+            <guid isPermaLink="false">9bff6b36-ac40-486b-90ae-2e061b332435</guid>
+            <pubDate>Wed, 24 Aug 2016 23:37:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
