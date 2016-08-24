@@ -24,11 +24,11 @@ navigation:
   - name: Collaborators
     id: 1224b806-b781-4b65-ad4b-4541f3b38113
     type: content
-  - name: Field Recording Kit
-    id: 88bb2503-f8fd-447b-ae15-72991cc2108b
-    type: content
   - name: Studio
     id: 1a30ea6e-62e5-410c-82f7-c5dc209ee602
+    type: content
+  - name: Field Recording Kit
+    id: 88bb2503-f8fd-447b-ae15-72991cc2108b
     type: content
   - name: Contact Us
     id: f59f16df-e057-455c-94e2-6deb7ffb29a7
