@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>http://raconteursound.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 23:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 23:44:57 GMT</lastBuildDate>
         <atom:link href="http://raconteursound.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Colin Lechner]]></title>
@@ -33,6 +33,13 @@
             <link>https://twitter.com/RaconteurSound</link>
             <guid isPermaLink="false">d6e3d022-25f8-464e-8c58-52579ce48005</guid>
             <pubDate>Wed, 24 Aug 2016 23:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spring In The Pacific Northwest]]></title>
+            <description><![CDATA[<article><h1>Spring In The Pacific Northwest</h1><p>Spring in the Pacific Northwest is a collection a natural ambiences from Oregon and Washington. It features temperate forests, lakes, fields, ocean, thunderstorms, and rain. All files were recorded MidSide, and are unencoded for maximum flexibility of stereo width. Beautiful birdcalls, breezy forests, soothing rain, and crashing waves give you a wonderfully lush and vivid tool set.</p></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dccbdb0-afc5-4999-8527-4e4ec2455c85.jpg</link>
+            <guid isPermaLink="false">e0aea183-13e7-4171-aad3-741bd95ff147</guid>
+            <pubDate>Wed, 24 Aug 2016 23:44:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
