@@ -21,9 +21,6 @@ navigation:
   - name: Sound Effects
     url: 'http://www.sonniss.com/vendor/clechner/'
     type: external
-  - name: Collaborators
-    id: 1224b806-b781-4b65-ad4b-4541f3b38113
-    type: content
   - name: Studio
     id: 1a30ea6e-62e5-410c-82f7-c5dc209ee602
     type: content
