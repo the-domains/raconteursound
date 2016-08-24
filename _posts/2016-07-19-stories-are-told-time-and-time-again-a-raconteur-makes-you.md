@@ -1,11 +1,15 @@
 ---
-id: c9a516f5-a237-47d3-a648-29746eb2c72b
-dateModified: '2016-08-24T23:52:17.518Z'
-title: Raconteur Sound is dedicated to helping the world hear your story.
-datePublished: '2016-08-24T23:52:18.162Z'
-author: []
+datePublished: '2016-08-24T23:57:58.462Z'
+sourcePath: >-
+  _posts/2016-07-19-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b519485-4c0c-4a84-adf4-efa83abc85b3.png
+author: []
+via: {}
+dateModified: '2016-08-24T23:57:53.025Z'
+title: Raconteur Sound is dedicated to helping the world hear your story.
+id: c9a516f5-a237-47d3-a648-29746eb2c72b
+publisher: {}
 description: >-
   Raconteur Sound is a full service post-production sound house offering
   everything from Hollywood style dialogue editing to surround re-recording
@@ -13,11 +17,7 @@ description: >-
   the talents of highly skilled individuals who, although spread throughout the
   country, remain connected virtually, allowing us to fluidly expand to meet the
   needs of any project.
-publisher: {}
-via: {}
 starred: true
-sourcePath: >-
-  _posts/2016-07-19-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
 inFeed: true
 hasPage: false
 inNav: false
