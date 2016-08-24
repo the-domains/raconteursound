@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-24T22:12:33.140Z'
+datePublished: '2016-08-24T22:13:11.242Z'
 hasPage: true
 author:
   - name: Colin Lechner
     url: 'https://vimeo.com/raconteursound'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T22:12:19.321Z'
+dateModified: '2016-08-24T22:13:10.572Z'
 title: Portfolio
 publisher: {}
 description: >-
   This video is a showcase of Colin Lechner's work as a re-recording mixer and
   sound designer. raconteursound.com
-starred: false
 sourcePath: _posts/2016-08-24-portfolio.md
+starred: false
 url: portfolio/index.html
 _type: MediaObject
 
