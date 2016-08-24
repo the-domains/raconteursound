@@ -1,19 +1,17 @@
 ---
-title: Sound Sculpture Library Demo
-datePublished: '2016-07-29T06:05:37.792Z'
-dateModified: '2016-07-29T06:05:24.476Z'
+datePublished: '2016-08-24T23:37:24.558Z'
+sourcePath: _posts/2016-07-18-sound-sculpture-library-demo.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=4b6dRBg9V6E'
 author:
   - name: Raconteur Sound
     url: 'https://www.youtube.com/channel/UClJ3TtQDZ8sjaXWbTX1jBZA'
     avatar: {}
-description: >-
-  The Sound Sculpture Library has been created by recording a steel sound
-  sculpture featured in this video. For more information please visit
-  raconteursound.com
-isBasedOnUrl: 'https://www.youtube.com/watch?v=4b6dRBg9V6E'
-sourcePath: _posts/2016-07-18-sound-sculpture-library-demo.md
-publisher: {}
 via: {}
+dateModified: '2016-08-24T23:37:17.890Z'
+title: Sound Sculpture Library Demo
+id: 9bff6b36-ac40-486b-90ae-2e061b332435
+publisher: {}
+description: Hear some of the amazing sounds produced by this sculpture.
 starred: false
 inFeed: true
 hasPage: false
