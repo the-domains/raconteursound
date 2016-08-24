@@ -21,9 +21,6 @@ navigation:
   - name: Sound Effects
     url: 'http://www.sonniss.com/vendor/clechner/'
     type: external
-  - name: Studio
-    id: 1a30ea6e-62e5-410c-82f7-c5dc209ee602
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e0a2a24-1965-4726-aafe-3cee50d42c0f.png
 collections:
