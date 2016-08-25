@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-24T23:37:24.558Z'
-sourcePath: _posts/2016-07-18-sound-sculpture-library-demo.md
+datePublished: '2016-08-25T00:24:40.602Z'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=4b6dRBg9V6E'
 author:
   - name: Raconteur Sound
     url: 'https://www.youtube.com/channel/UClJ3TtQDZ8sjaXWbTX1jBZA'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T23:37:17.890Z'
+dateModified: '2016-08-25T00:24:37.640Z'
 title: Sound Sculpture Library Demo
 id: 9bff6b36-ac40-486b-90ae-2e061b332435
 publisher: {}
 description: Hear some of the amazing sounds produced by this sculpture.
 starred: false
+sourcePath: _posts/2016-07-18-sound-sculpture-library-demo.md
 inFeed: true
 hasPage: false
 inNav: false
