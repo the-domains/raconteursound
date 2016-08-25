@@ -1,11 +1,10 @@
 ---
 id: 15d61d3c-e5bd-4c4a-9118-570736e11629
-dateModified: '2016-08-24T23:33:23.738Z'
+dateModified: '2016-08-25T00:22:55.405Z'
 title: Colin Lechner
-datePublished: '2016-08-24T23:35:39.629Z'
+datePublished: '2016-08-25T00:22:59.070Z'
 author: []
-isBasedOnUrl: 'http://www.imdb.com/name/nm5721812/?ref_=fn_al_nm_1'
-sourcePath: _posts/2016-06-29-colin-lechner.md
+hasPage: true
 description: >-
   Colin Lechner, Sound Department: Bygone. Colin Lechner is a talented
   storyteller, using sound to enhance narrative productions. He holds a Masters
@@ -20,9 +19,8 @@ publisher:
   domain: www.imdb.com
 via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+sourcePath: _posts/2016-06-29-colin-lechner.md
+url: colin-lechner/index.html
 _type: MediaObject
 
 ---
