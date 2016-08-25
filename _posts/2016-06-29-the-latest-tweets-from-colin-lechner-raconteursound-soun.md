@@ -1,39 +1,17 @@
 ---
-datePublished: '2016-08-24T23:35:56.271Z'
-sourcePath: _posts/2016-06-29-the-latest-tweets-from-colin-lechner-raconteursound-soun.md
-isBasedOnUrl: 'https://twitter.com/RaconteurSound'
-keywords:
-  - sounddesign
-  - sound-effects
-  - sonniss
-  - fieldrecording
-  - twitter
-  - raconteursound
-  - raconteursoundpic
-  - www
-  - http
-  - dehumaniser
-related: []
-author:
-  - avatar: {}
-via: {}
-dateModified: '2016-08-24T23:33:23.733Z'
+id: d6e3d022-25f8-464e-8c58-52579ce48005
+dateModified: '2016-08-25T00:23:28.258Z'
 title: ''
-app_links:
-  - path: >-
-      twitter/user?screen_name=RaconteurSound&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile
-    package: com.twitter.android
-    namespace: google
-    type: android
-publisher: {}
+datePublished: '2016-08-25T00:23:38.654Z'
+author: []
+hasPage: true
 description: ' @RaconteurSound on Twitter'
-inLanguage: en
+publisher: {}
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_context: 'http://schema.org'
-_type: Comment
+sourcePath: _posts/2016-06-29-the-latest-tweets-from-colin-lechner-raconteursound-soun.md
+url: raconteursound-on-twitter/index.html
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21971eef-8246-4941-8c07-68c8a692ce4b.jpg)
