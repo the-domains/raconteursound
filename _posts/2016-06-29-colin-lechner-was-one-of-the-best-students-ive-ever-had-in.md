@@ -1,25 +1,21 @@
 ---
-datePublished: '2016-08-24T23:46:49.565Z'
-sourcePath: >-
-  _posts/2016-06-29-colin-lechner-was-one-of-the-best-students-ive-ever-had-in.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
-author: []
-via: {}
-dateModified: '2016-08-24T23:33:23.731Z'
+id: 08230ecc-c8b5-4fbd-8de0-68cf0d4e1177
+dateModified: '2016-08-25T00:27:52.573Z'
 title: ''
-publisher: {}
+datePublished: '2016-08-25T00:28:00.195Z'
+author: []
+hasPage: true
 description: >-
   Colin Lechner was one of the best students I've ever had in my Sound Design
   classes at Savannah College of Art and Design. He has a wonderful ear (well,
   two, actually) and extraordinary good taste.
-inLanguage: null
-inNav: false
+publisher: {}
+via: {}
 starred: false
+sourcePath: >-
+  _posts/2016-06-29-colin-lechner-was-one-of-the-best-students-ive-ever-had-in.md
 url: david-e-stone/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a8f0aa-9508-41ef-a713-e063e671c82e.jpg)
