@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-25T01:54:16.214Z'
+datePublished: '2016-08-25T02:17:31.092Z'
 sourcePath: _posts/2016-06-29-colin-lechner.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T01:54:06.933Z'
+dateModified: '2016-08-25T02:17:14.034Z'
 title: Colin Lechner
 id: 15d61d3c-e5bd-4c4a-9118-570736e11629
 publisher:
