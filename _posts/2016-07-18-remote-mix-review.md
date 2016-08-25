@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-24T23:47:34.200Z'
-sourcePath: _posts/2016-07-18-remote-mix-review.md
-inFeed: true
+datePublished: '2016-08-25T00:29:26.541Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T23:33:23.732Z'
+dateModified: '2016-08-25T00:29:25.959Z'
 title: Remote Mix Review
+id: 780fa659-a3df-46b8-b570-7ba9dc794c30
 publisher: {}
 description: ''
 starred: false
+sourcePath: _posts/2016-07-18-remote-mix-review.md
 url: remote-mix-review/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd94e84f-8bdd-40bc-bcfb-b8373e2a9244.jpg)
