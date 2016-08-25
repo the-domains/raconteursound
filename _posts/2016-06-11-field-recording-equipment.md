@@ -1,21 +1,19 @@
 ---
-datePublished: '2016-08-24T23:46:16.510Z'
-sourcePath: _posts/2016-06-11-field-recording-equipment.md
-isBasedOnUrl: ''
+id: 88bb2503-f8fd-447b-ae15-72991cc2108b
+dateModified: '2016-08-25T00:28:35.085Z'
+title: Field Recording Kit
+datePublished: '2016-08-25T00:28:43.603Z'
 author:
   - name: ''
     url: ''
-via: {}
-dateModified: '2016-08-24T23:46:04.900Z'
-title: Field Recording Kit
-id: 88bb2503-f8fd-447b-ae15-72991cc2108b
-publisher: {}
+hasPage: true
 description: This is the heart of my field recording kit.
+publisher: {}
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+sourcePath: _posts/2016-06-11-field-recording-equipment.md
+url: field-recording-kit/index.html
+_type: Blurb
 
 ---
 ## Field Recording Kit
