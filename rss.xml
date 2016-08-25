@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>http://raconteursound.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 00:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 00:29:27 GMT</lastBuildDate>
         <atom:link href="http://raconteursound.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Post-Production Sound]]></title>
@@ -40,13 +40,6 @@
             <link>https://soundcloud.com/raconteur-sound/short-sculpture-show-piece</link>
             <guid isPermaLink="false">342b966a-59bb-4985-8d50-d9a472486cb5</guid>
             <pubDate>Thu, 25 Aug 2016 00:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Remote Mix Review]]></title>
-            <description><![CDATA[<article><h1>Remote Mix Review</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd94e84f-8bdd-40bc-bcfb-b8373e2a9244.jpg"></article>]]></description>
-            <link>http://raconteursound.com/remote-mix-review/index.html</link>
-            <guid isPermaLink="false">780fa659-a3df-46b8-b570-7ba9dc794c30</guid>
-            <pubDate>Wed, 24 Aug 2016 23:47:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
