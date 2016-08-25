@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>http://raconteursound.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 00:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 00:25:42 GMT</lastBuildDate>
         <atom:link href="http://raconteursound.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Post-Production Sound]]></title>
@@ -28,6 +28,13 @@
             <pubDate>Thu, 25 Aug 2016 00:24:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Short Sculpture Show Piece 150218 by Raconteur Sound]]></title>
+            <description><![CDATA[<article><h1>Short Sculpture Show Piece 150218 by Raconteur Sound</h1><p>This track is and exploration of the sonic potential of the tones created by a sound sculpture of my own design.</p></article>]]></description>
+            <link>https://soundcloud.com/raconteur-sound/short-sculpture-show-piece</link>
+            <guid isPermaLink="false">342b966a-59bb-4985-8d50-d9a472486cb5</guid>
+            <pubDate>Thu, 25 Aug 2016 00:25:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Remote Mix Review]]></title>
             <description><![CDATA[<article><h1>Remote Mix Review</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd94e84f-8bdd-40bc-bcfb-b8373e2a9244.jpg"></article>]]></description>
             <link>http://raconteursound.com/remote-mix-review/index.html</link>
@@ -47,13 +54,6 @@
             <link>http://www.sonniss.com/vendor/clechner/</link>
             <guid isPermaLink="false">272f2de6-238b-49e1-a63b-effdc8ce7cd1</guid>
             <pubDate>Wed, 24 Aug 2016 23:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Short Sculpture Show Piece 150218 by Raconteur Sound]]></title>
-            <description><![CDATA[<article><h1>Short Sculpture Show Piece 150218 by Raconteur Sound</h1><p>This track is and exploration of the sonic potential of the tones created by a sound sculpture of my own design.</p></article>]]></description>
-            <link>https://soundcloud.com/raconteur-sound/short-sculpture-show-piece-150218</link>
-            <guid isPermaLink="false">342b966a-59bb-4985-8d50-d9a472486cb5</guid>
-            <pubDate>Wed, 24 Aug 2016 23:42:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
