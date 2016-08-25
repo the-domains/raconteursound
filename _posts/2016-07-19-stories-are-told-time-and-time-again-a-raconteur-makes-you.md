@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-08-24T23:57:58.462Z'
+datePublished: '2016-08-25T00:22:29.598Z'
 sourcePath: >-
   _posts/2016-07-19-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b519485-4c0c-4a84-adf4-efa83abc85b3.png
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T23:57:53.025Z'
+dateModified: '2016-08-25T00:22:20.594Z'
 title: Raconteur Sound is dedicated to helping the world hear your story.
 id: c9a516f5-a237-47d3-a648-29746eb2c72b
 publisher: {}
@@ -18,9 +17,7 @@ description: >-
   country, remain connected virtually, allowing us to fluidly expand to meet the
   needs of any project.
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
+url: raconteur-sound-is-dedicated-to-helping-the-world-hear-your/index.html
 _type: MediaObject
 
 ---
