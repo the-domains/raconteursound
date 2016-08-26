@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-25T02:04:51.437Z'
+datePublished: '2016-08-26T01:00:38.079Z'
 sourcePath: >-
   _posts/2016-06-29-colin-lechner-was-one-of-the-best-students-ive-ever-had-in.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T02:04:46.129Z'
+dateModified: '2016-08-26T00:59:57.434Z'
 title: ''
 id: 08230ecc-c8b5-4fbd-8de0-68cf0d4e1177
 publisher: {}
