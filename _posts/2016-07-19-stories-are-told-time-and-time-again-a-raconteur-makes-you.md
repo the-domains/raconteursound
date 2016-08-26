@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-25T01:59:48.367Z'
+datePublished: '2016-08-26T00:54:55.809Z'
 sourcePath: >-
   _posts/2016-07-19-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T01:59:40.113Z'
+dateModified: '2016-08-26T00:54:50.939Z'
 title: Raconteur Sound is dedicated to helping the world hear your story.
 id: c9a516f5-a237-47d3-a648-29746eb2c72b
 publisher: {}
