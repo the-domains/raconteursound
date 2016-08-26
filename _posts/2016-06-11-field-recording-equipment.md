@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T01:58:20.228Z'
+datePublished: '2016-08-26T00:58:36.872Z'
 sourcePath: _posts/2016-06-11-field-recording-equipment.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T01:58:12.395Z'
+dateModified: '2016-08-26T00:58:24.228Z'
 title: Field Recording Kit
 id: 88bb2503-f8fd-447b-ae15-72991cc2108b
 publisher: {}
