@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-26T00:52:18.002Z'
+datePublished: '2016-08-29T02:15:19.098Z'
 sourcePath: _posts/2016-07-18-post-production-sound.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T00:52:14.108Z'
+dateModified: '2016-08-29T02:15:18.613Z'
 title: Post-Production Sound
 id: e559f9ca-5372-4eed-813f-75cdd49913c9
 publisher: {}
