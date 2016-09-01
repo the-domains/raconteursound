@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-29T02:15:19.098Z'
+datePublished: '2016-08-30T06:52:16.880Z'
 sourcePath: _posts/2016-07-18-post-production-sound.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T02:15:18.613Z'
+dateModified: '2016-08-30T06:52:04.170Z'
 title: Post-Production Sound
 id: e559f9ca-5372-4eed-813f-75cdd49913c9
 publisher: {}
 description: >-
   Post-production sound is a crucial element for every film and television
   project, and it requires just as much planning and attention as script
-  writing, cinematography, or editing.
+  writing, cinematography, or editing.sdfsf
 starred: false
 url: post-production-sound/index.html
 _type: Article
